@@ -10,7 +10,7 @@ def read_from_hash(hash, key)
     :key => 
   }
 end
-hash
+read_from_hash
 
 def update_counting_hash(hash, key)
   # given a hash an a key as parameters, return an updated hash
